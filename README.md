@@ -1,6 +1,8 @@
-Commands to the Project
+Commands to run the Project
 
 Clone the repository and switch to master branch.
+For switching use command
+git checkout master (make sure you are on the root of the project)
 
 Go to the root of project through terminal and run --> yarn add.
 
